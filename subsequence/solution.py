@@ -1,7 +1,3 @@
-"""
-Problem: Given a list of integers and a target number, find a consecutive
-subsequence that adds up to the target number.
-"""
 import pytest
 
 
