@@ -41,8 +41,10 @@ I was very lucky that one of the companies that I had an interview with gave me
 detailed feedback. They shared comments from each of four interviewers, which
 is very unusual. In essence, they had positive evaluation on the behavioral
 interview (communication skills, personality, cultural fit, leadership, etc.)
-and the system design interview, but they had some doubts about my coding
-abilities.
+and the system design interview (designing scalable systems at extreme sizes),
+but they had some doubts about my coding abilities. Regardless of the outcome,
+I sincerely appreciate that kind of feedback. That's what keeps me moving
+forward.
 
 It's okay to fail. It's okay to make mistakes. As [Dr.
 Hong](http://www.romela.org/dr-dennis-hong/) said, *you can't always win, but
@@ -52,9 +54,11 @@ from mistakes*.
 
 ## This Repository
 
-This repository has source files containing a problem statement and a working
-solution. No particular company name is mentioned, but those questions are
-general enough that they can be asked in any tech interview.
+This repository contains some on-site interview questions that I have
+encountered over the course of last few  years. I'm still working on providing
+solutions for some of the problems. No particular company name is mentioned,
+but those questions are general enough that they can be asked in any tech
+interview.
 
 
 ## Practice
@@ -72,12 +76,12 @@ boundary conditions right.
 
 You are generally expected to write code on a whiteboard or on a basic text
 editor without syntax highlighting. You should be able to run the code in your
-head comfortably. It is okay to write some fuzzy code that partially works then
-gradually improve by running the code with a compiler or an interpreter in a
-real work environment. But that is not how things work at a job interview. Try
-to write code at the entirety, improve the code if possible, simulate all
-possible edge cases, fix any bug you found. When you think all is good, run
-your code to see if your code really works.
+head comfortably. It may be acceptable to write some fuzzy code that partially
+works then gradually improve by running the code with a compiler or an
+interpreter in a real work environment. But that is not how things work at a
+job interview. Try to write code at the entirety, improve the code if possible,
+simulate all possible edge cases, fix any bug you found. When you think all is
+good, run your code to see if your code really works.
 
 
 ## Time Limits
