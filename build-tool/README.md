@@ -2,7 +2,8 @@ Build Toold
 ===========
 
 Problem: Suppose we are making a build tool that takes a list of paths
-containing source files.
+containing source files. The build tool produces a list of paths that it
+actually has to work on.
 
 When building code for a particular directory, source files in all its
 subdirectories are handled. For example, both `/a/b/c` and `/a/b` are given,
