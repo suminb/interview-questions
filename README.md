@@ -78,3 +78,18 @@ real work environment. But that is not how things work at a job interview. Try
 to write code at the entirety, improve the code if possible, simulate all
 possible edge cases, fix any bug you found. When you think all is good, run
 your code to see if your code really works.
+
+
+## Time Limits
+
+In many cases, a final round consists of multiple interview sessions. The
+longest one I have had so far was five sessions long. Each interview session
+runs for about 50-60 minutes. Generally, you and your interviewer will spend
+some time introducing yourself, with regards to your current role and your past
+experience, to the other and vice versa. Your interviewer may ask you some
+behavioral questions. Most interviewers want to leave a few minutes at the end
+of the session for you to ask some questions. That leaves about 30-40 minutes
+at most for the coding part itself.
+
+For each problem description, I wrote down how much time I had for that
+particular problem.
