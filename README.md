@@ -93,3 +93,14 @@ at most for the coding part itself.
 
 For each problem description, I wrote down how much time I had for that
 particular problem.
+
+
+## Contribution
+
+Feel free to submit your solutions via pull requests. Some rules to follow:
+
+- Your solution must be contained in a single file.
+- Avoid relying on external libraries and frameworks.
+- File name should be in a format of `solution-{your GitHub username}.{ext}`.
+  For example, if your GitHub username is `johndoe` and your solution is
+  written in C++, your filename should be `solution-johndoe.cpp`
