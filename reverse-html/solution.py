@@ -1,3 +1,8 @@
+# NOTE: I don't think I can jot this down on a whiteboard in 40
+# minutes, and that leads me to believe that there should be a
+# simpler solution.
+
+
 class Node(object):
 
     def __init__(self, parent, mode, data):
