@@ -8,13 +8,14 @@ binary trees, directed graphs, hash maps, greedy algorithm, divide and conqure,
 dynamic programming, depth first search, breath first search and all those good
 stuff. You were also getting the hang of space and time complexity analysis.
 
-Although computer science classes were pain in the \*\*\*, you finally
-graduated. You will remember all those all-nighter days with your classmates
-trying to build a compiler, a file system, and a network router. You realized
-you can push yourself much further than you thought possible. Even with years
-of hard work, you probably wouldn't claim that you have conquered the universe
-of computer science, because you know there is much more to be learned, but at
-least you had some level of confidence that you understand the fundamentals.
+Despite the fact that computer science classes were pain in the \*\*\*, somehow
+you managed to graduate. You will definitely remember all those all-nighter
+days with your classmates trying to build a compiler, a file system, and a
+network router. It was traumatizing. You realized you can push yourself much
+further than you thought possible. Even with years of hard work, you probably
+wouldn't claim that you have conquered the universe of computer science,
+because you know there is much more to be learned, but at least you had some
+level of confidence that you understand the fundamentals.
 
 You got a job as a software engineer. You started building awesome stuff.
 Years have passed by, and things got rusty. Even though you were writing some
