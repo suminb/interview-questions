@@ -33,7 +33,16 @@ def in_boundary(world, x, y):
     return (0 <= x < w) and (0 <= y < h)
 
 
-def test():
+def test_1():
+    world = [
+        [0, 1, 0],
+        [1, 1, 0],
+        [0, 0, 1],
+    ]
+    assert count_islands(world, 0, 0) == 2
+
+
+def test_2():
     world = [
         [1, 1, 0, 1, 0, 0, 1, 0],
         [1, 0, 0, 1, 1, 1, 0, 0],
@@ -42,5 +51,4 @@ def test():
         [1, 0, 0, 1, 0, 0, 1, 1],
         [1, 1, 1, 0, 0, 1, 1, 0],
     ]
-
     assert count_islands(world, 0, 0) == 5
