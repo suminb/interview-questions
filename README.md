@@ -61,10 +61,16 @@ solutions for some of the problems. No particular company name is mentioned,
 but those questions are general enough that they can be asked in any tech
 interview.
 
+The solutions are the best recollection of mime, but could be slightly
+different from what I actually wrote down on a whiteboard during the interview.
+There is a plenty of room for improvement for each solution I provided, but I
+wanted to show what kind of code I was able to write under a harsh environment
+(a whiteboard, time constraints, psychological pressures, etc.)
+
 
 ## Practice
 
-Try to focus on these two things:
+Keep in mind that:
 
 Getting a complete, working solution is important. Pseudo-code is not enough.
 Interviewers are generally okay with any language of your choice among popular
@@ -80,9 +86,18 @@ editor without syntax highlighting. You should be able to run the code in your
 head comfortably. It may be acceptable to write some fuzzy code that partially
 works then gradually improve by running the code with a compiler or an
 interpreter in a real work environment. But that is not how things work at a
-job interview. Try to write code at the entirety, improve the code if possible,
-simulate all possible edge cases, fix any bug you found. When you think all is
-good, run your code to see if your code really works.
+job interview. For this reason, writing code on an actual whiteboard or a piece
+of paper is the best way to prepare yourself for tech interviews. If you still
+insist typing code on your favorite editor, at least try to write code at the
+entirety, improve the code if possible, simulate all possible edge cases, fix
+any bug you found. When you think all is good, run your code to see if your
+code really works.
+
+Last but not least, pracice working under tight time constraint. Depending on
+the format of your interview and the level of complexity of the problem, you
+will be given 10-45 minutes per each problem.  It is highly unlikely that you
+will encounter anything super complicated, but problems can be quite
+challenging under time constraint.
 
 
 ## Time Limits
