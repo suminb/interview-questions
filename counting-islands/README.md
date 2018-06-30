@@ -21,3 +21,5 @@ For example, the following world contains five islands.
 ```
 
 You may assume that no island contains a lake (water surrounded by land).
+
+Time limit: 45 min
