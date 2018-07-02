@@ -93,9 +93,9 @@ entirety, improve the code if possible, simulate all possible edge cases, fix
 any bug you found. When you think all is good, run your code to see if your
 code really works.
 
-Last but not least, pracice working under tight time constraint. Depending on
-the format of your interview and the level of complexity of the problem, you
-will be given 10-45 minutes per each problem.  It is highly unlikely that you
+Last but not least, practice working under tight time constraint. Depending on
+the format of your interview and the level of complexity of the problems, you
+will be given 10-45 minutes per each problem. It is highly unlikely that you
 will encounter anything super complicated, but problems can be quite
 challenging under time constraint.
 
