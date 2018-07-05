@@ -12,16 +12,17 @@ Despite the fact that computer science classes were pain in the \*\*\*, somehow
 you managed to graduate. You will definitely remember all those all-nighter
 days with your classmates trying to build a compiler, a file system, and a
 network router. It was traumatizing. You realized you can push yourself much
-further than you thought possible. Even with years of hard work, you probably
-wouldn't claim that you have conquered the universe of computer science,
-because you know there is much more to be learned, but at least you had some
-level of confidence that you understand the fundamentals.
+further than you thought possible.
+
+Even with years of hard work, you probably wouldn't claim yourself as a master
+of computer science, because you know there is much more to be learned. But at
+least you had some level of confidence that you understand the fundamentals.
 
 You got a job as a software engineer. You started building awesome stuff.
-Years have passed by, and things got rusty. Even though you were writing some
-code pretty much every single day, you weren't always concerned with
-implementing algorithms yourself. In many cases, you were working on the top of
-some libraries and frameworks to get things done.
+Years have passed by, and things got rusty. Even though you were writing code
+on a regular basis, you weren't always concerned with implementing algorithms
+yourself. In many cases, you were working on the top of some libraries and
+frameworks to get things done.
 
 Then here we go. You made all the way through the final round of your hiring
 process and you were invited to an on-site interview. You are standing in front
