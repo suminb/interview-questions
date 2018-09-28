@@ -32,7 +32,9 @@ writing code on a whiteboard without syntax highlighting, without
 auto-complete, without any compiler or interpreter is a completely different
 experience when compared to writing code at your regular daily job.
 
-<a href="https://imgflip.com/i/2cuu5x"><img src="https://i.imgflip.com/2cuu5x.jpg" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/i/2cuu5x">
+  <img src="https://github.com/suminb/interview-questions/raw/master/joker.jpg" title="made at imgflip.com"/>
+</a>
 
 I recently had a number of job interviews with different companies. Some
 interviews went well, others were a bit more challenging than they are supposed
