@@ -4,33 +4,42 @@ Job interviews sometimes can be a daunting task. Especially when you're
 confronted with those algorithm and data structure problems.
 
 I'm sure you've been through a lot when you were in school. Linked lists,
-binary trees, directed graphs, hash maps, greedy algorithm, divide and conqure,
-dynamic programming, depth first search, breath first search and all those good
-stuff. You were also getting the hang of space and time complexity analysis.
+binary trees, directed acyclic graphs, hash maps, greedy algorithm, divide and
+conqure, dynamic programming, depth first search, breath first search and all
+those good stuff. Not to mention space and time complexity analysis.
 
 Despite the fact that computer science classes were pain in the \*\*\*, somehow
-you managed to graduate. You will definitely remember all those all-nighter
-days with your classmates trying to build a compiler, a file system, and a
-network router. It was traumatizing. You realized you can push yourself much
-further than you thought possible.
+you managed to complete them all, and made your friends and family proud of
+you. You will definitely remember all those all-nighter days with your
+classmates trying to build a compiler, a file system, and a network router. It
+was traumatizing. You realized you can push yourself much further than you
+thought possible.
 
 Even with years of hard work, you probably wouldn't claim yourself as a master
 of computer science, because you know there is much more to be learned. But at
-least you had some level of confidence that you understand the fundamentals.
+least you had some level of confidence that you understand the fundamentals of
+computer science.
 
-You got a job as a software engineer. You started building awesome stuff.
-Years have passed by, and things got rusty. Even though you were writing code
-on a regular basis, you weren't always concerned with implementing algorithms
-yourself. In many cases, you were working on the top of some libraries and
-frameworks to get things done.
+Soon after you got yourself a job as a software engineer. You started building
+awesome stuff. Years have passed by, and things got rusty. Even though you were
+writing code on a daily basis, you weren't always concerned with implementing
+algorithms and data structures yourself. In many cases, you were working on the
+top of some libraries and frameworks to get things done.
+
+More years have passed by, and you started thinking about taking a different
+set of challenges outside your company. You started responding to recruiting
+messages on LinkedIn that you have been ignoring. Writing a new resume, phone
+screening, and online coding tests are usual hurdles to jump over.
 
 Then here we go. You made all the way through the final round of your hiring
 process and you were invited to an on-site interview. You are standing in front
 of a big whiteboard. Your interviewer is asking you to write some code to merge
 two lists of sorted intergers. It is supposed to be an *easy* problem, but
 writing code on a whiteboard without syntax highlighting, without
-auto-complete, without any compiler or interpreter is a completely different
-experience when compared to writing code at your regular daily job.
+auto-complete, without any assist from a compiler or an interpreter whatsoever
+is a completely different experience when compared to writing code with a
+highly advanced integrated development environment (IDE) that reads your mind
+to write as much as half of the code on your behalf.
 
 <a href="https://imgflip.com/i/2cuu5x">
   <img src="https://github.com/suminb/interview-questions/raw/master/joker.jpg" title="made at imgflip.com"/>
