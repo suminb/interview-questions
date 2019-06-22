@@ -1,15 +1,15 @@
 # Interview Questions
 
 Job interviews sometimes can be a daunting task. Especially when you're
-confronted with those algorithm and data structure problems.
+confronted with those problems with algorithms and data structures.
 
 I'm sure you've been through a lot when you were in school. Linked lists,
 binary trees, directed acyclic graphs, hash maps, greedy algorithm, divide and
-conqure, dynamic programming, depth first search, breath first search and all
+conquer, dynamic programming, depth-first search, breadth-first search, and all
 those good stuff. Not to mention space and time complexity analysis.
 
-Despite the fact that computer science classes were pain in the \*\*\*, somehow
-you managed to complete them all, and made your friends and family proud of
+Even though computer science classes were a pain in the \*\*\*, somehow
+you managed to complete them all and made your friends and family proud of
 you. You will definitely remember all those all-nighter days with your
 classmates trying to build a compiler, a file system, and a network router. It
 was traumatizing. You realized you can push yourself much further than you
@@ -34,25 +34,25 @@ screening, and online coding tests are usual hurdles to jump over.
 Then here we go. You made all the way through the final round of your hiring
 process and you were invited to an on-site interview. You are standing in front
 of a big whiteboard. Your interviewer is asking you to write some code to merge
-two lists of sorted intergers. It is supposed to be an *easy* problem, but
+two lists of sorted integers. It is supposed to be an *easy* problem, but
 writing code on a whiteboard without syntax highlighting, without
-auto-complete, without any assist from a compiler or an interpreter whatsoever
-is a completely different experience when compared to writing code with a
-highly advanced integrated development environment (IDE) that reads your mind
-to write as much as half of the code on your behalf.
+auto-complete, without any assistance from a compiler or an interpreter
+whatsoever is a completely different experience when compared to writing code
+with a highly advanced integrated development environment (IDE) that reads your
+mind to write as much as half of the code on your behalf.
 
 <a href="https://imgflip.com/i/2cuu5x">
   <img src="https://github.com/suminb/interview-questions/raw/master/joker.jpg" title="made at imgflip.com"/>
 </a>
 
-I recently had a number of job interviews with different companies. Some
+I recently had serveral job interviews with different companies. Some
 interviews went well, others were a bit more challenging than they are supposed
 to be. I've got a few offers and one rejection so far. Some are still
-in-progress and one of them is highly likely going to turn out as a rejection.
+in progress and one of them is highly likely going to turn out as a rejection.
 
 I was very lucky that one of the companies that I had an interview with gave me
-detailed feedback. They shared comments from each of four interviewers, which
-is very unusual. In essence, they had positive evaluation on the behavioral
+detailed feedback. They shared comments from each of the four interviewers, which
+is very unusual. In essence, they had a positive evaluation of the behavioral
 interview (communication skills, personality, cultural fit, leadership, etc.)
 and the system design interview (designing scalable systems at extreme sizes),
 but they had some doubts about my coding abilities. Regardless of the outcome,
@@ -68,14 +68,14 @@ from mistakes*.
 ## This Repository
 
 This repository contains some on-site interview questions that I have
-encountered over the course of last few  years. I'm still working on providing
+encountered throughout the last few years. I'm still working on providing
 solutions for some of the problems. No particular company name is mentioned,
 but those questions are general enough that they can be asked in any tech
 interview.
 
 The solutions are the best recollection of mime, but could be slightly
 different from what I actually wrote down on a whiteboard during the interview.
-There is a plenty of room for improvement for each solution I provided, but I
+There is plenty of room for improvement for each solution I provided, but I
 wanted to show what kind of code I was able to write under a harsh environment
 (a whiteboard, time constraints, psychological pressures, etc.)
 
