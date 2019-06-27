@@ -10,7 +10,8 @@ For example,
 
     list = [1, 4, 5, 3, 2], target = 8
 
-then your function returns `true`. If `target = 0` it returns `false`.
+then your function returns `true`. If there is no such subsequence that adds
+up to `target` then it returns `false`.
 
 Time limit: 15 min
 
