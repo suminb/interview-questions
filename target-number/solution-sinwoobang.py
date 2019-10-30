@@ -14,10 +14,10 @@ def is_possible(nums: List[int], k: int):
 def test_1():
     nums = [-5, 0, 2, 3, 7, 8]
     k = 9
-    assert is_possible(nums, k) is True
+    assert is_possible(nums, k)
 
 
 def test_2():
     nums = [-5, 0, 2, 3, 7, 8]
     k = 1
-    assert is_possible(nums, k) is False
+    assert not is_possible(nums, k)
