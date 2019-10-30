@@ -21,4 +21,3 @@ def test_2():
     nums = [-5, 0, 2, 3, 7, 8]
     k = 1
     assert is_possible(nums, k) is False
-
